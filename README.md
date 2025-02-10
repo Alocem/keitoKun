@@ -10,4 +10,6 @@ account.txt
 运行
 python keito.py
 
+程序里的account、collectNum已经改为每日上限，每日运行一次
+
 温馨提示：任何脚本都会触发女巫情况，请知悉
