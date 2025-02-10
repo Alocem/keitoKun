@@ -9,3 +9,5 @@ account.txt
 
 运行
 python keito.py
+
+温馨提示：任何脚本都会触发女巫情况，请知悉
