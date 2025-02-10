@@ -2,7 +2,8 @@
 pip install websocket-client
 
 获取UID方法
-![image](https://github.com/user-attachments/assets/82461234-bd77-42e5-b656-4a7ff91876c9)
+![image](https://github.com/user-attachments/assets/a4d835cd-a254-4d44-895b-d1aec0ac1bb6)
+
 
 account.txt
 
